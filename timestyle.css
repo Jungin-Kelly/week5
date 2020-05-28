@@ -1,0 +1,29 @@
+.content{
+    width:50%;
+    height : 30%;
+    left:25%;
+    top:35%;
+    position: absolute;
+    text-align: center;
+
+}
+.window{
+    height: 80%;
+    border: 5px solid black;
+    border-radius: 5%;
+}
+#w_stopwatch, #w_timer{
+    display: none;
+}
+input[typr=number]{
+    width:50px;
+}
+h1{
+    font-size: 80px;
+    margin: -20px 0px 0px 0px;
+    text-shadow: 2px 2px blueviolet ;
+}
+
+h3{
+    margin: 10px 0px 0px 0px;
+}
